@@ -1,20 +1,15 @@
 # DataLake - The Ultimate Customer Management Solution
 
-Further implementation of the [Datalake-Next.js](https://github.com/yaleksenko/datalake-nextjs) project with a cloud MongoDB database. The following options have been added: authentication using JWT tokens, registration of new users, dynamic filtering by all fields, dashboard, access rights management, integration with the PostgreSQL database.
+Further implementation of the [Datalake-Next.js](https://github.com/jaleksenko/datalake-nextjs) project with a cloud Mongo database. The following options have been added: authentication using JWT tokens, registration of new users, dynamic filtering by all fields, dashboard, access rights management, integration with the PostgreSQL database.
 
 
-DataLake is a powerful customer management application built with Next.js, Django Rest Framework, PostgresSQL and Tailwind CSS. It provides a modern and convenient way to manage your customer data, all in one place. With the help of an API that fetches data from PostgreSQL and Redux for state management, DataLake offers a seamless and responsive experience for its users.
+DataLake is a powerful customer management application built with Next.js, Django Rest Framework, Postgres and Tailwind. It provides a modern and convenient way to manage your customer data, all in one place. With the help of an API that fetches data from PostgreSQL and Redux for state management, DataLake offers a seamless and responsive experience for its users.
 
 DataLake has implemented authentication using JWT tokens, providing additional security guarantees. With this, each user can now create, edit, and manage their clients, which are only visible to them. Additionally, DataLake offers an easy-to-use interface for viewing, adding, editing, or deleting customers from your database. You can even search for customers by all fields to help you quickly find the customers you're looking for.
 
 But that's not all! In the near future, I plan to add even more exciting features to DataLake. These will include the ability to mass-import customers, notifications, and powerful analytics tools. With these additional tools, you'll be able to better understand your customers and make data-driven decisions to drive your business forward.     
 
 Join me on this exciting journey to revolutionize customer management with DataLake.
-
-You can see the demo version of the project by following the link:
-(Create a new account or click [Demo](https://data.deeplogic.ch/demo/))
-
-https://data.deeplogic.ch/
 
 
 ## Features
@@ -38,7 +33,7 @@ https://data.deeplogic.ch/
 1. Clone the repository:
 
 ```
-git clone https://github.com/yaleksenko/datalake-django-api.git
+git clone https://github.com/jaleksenko/datalake-django.git
 ```
 
 2. Install dependencies:
